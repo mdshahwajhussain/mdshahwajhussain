@@ -1,6 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahwajsheikhh&label=Profile%20views&color=0e75b6&style=flat" alt="shahwajsheikhh" /> </p>
 
-- Connect with me [https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif?raw=true](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif?raw=true)
+Connect with me 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/refs/heads/master/Assets/Handshake.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
