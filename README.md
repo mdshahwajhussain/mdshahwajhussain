@@ -3,7 +3,7 @@
 
 <h3 align="right">Connect with me: <img align="left" alt="Coding" width="100" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/refs/heads/master/Assets/Handshake.gif" </h3>
 
-<p align="right">
+<p align="left">
 </p>
 
 
