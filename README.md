@@ -2,7 +2,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="Coding" width="100" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/refs/heads/master/Assets/Handshake.gif">
+<p></p><img align="right" alt="Coding" width="100" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/refs/heads/master/Assets/Handshake.gif" /></p>
 <p align="left">
 </p>
 
