@@ -2,9 +2,11 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p></p><img align="right" alt="Coding" width="100" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/refs/heads/master/Assets/Handshake.gif" /></p>
+
 <p align="left">
 </p>
+
+<p></p><img align="right" alt="Coding" width="100" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/refs/heads/master/Assets/Handshake.gif" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahwajsheikhh&show_icons=true&locale=en&layout=compact" alt="shahwajsheikhh" /></p>
 
